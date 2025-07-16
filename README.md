@@ -15,4 +15,5 @@ Rockbuster Stealth LLC, a movie rental company who used to have stores across th
 The Rockbuster Stealth LLC dataset includes data about customers, inventory, payments, staff, films, addresses, actors, stores and rental history. The tools used in the analysis were Postgre SQL and Pgdmin 4. For the visualisations, Tableau Public was used and Microsoft Powerpoint presented the findings.  
 
 Rockbuster Stealth LLC Analysis Tableau [Visualisations](https://public.tableau.com/app/profile/gemma.hearne/vizzes)
+
 Powerpoint presentation : [GemmaHTask3.10_Presenting_SQL_Results.pdf](https://github.com/user-attachments/files/21249859/GemmaHTask3.10_Presenting_SQL_Results.pdf)
