@@ -1,23 +1,47 @@
-# Rockbuster-Stealth-LLC-Analysis
-# Project Summary
-Rockbuster Stealth LLC, a movie rental company who used to have stores across the world, is re-evaluating its business focus. Due to the popularity of online streaming sites, such as Amazon Prime and Netflix, the company is planning to launch an online movie rental service. This project involves data analysis aimed at ensuring a successful launch and sustained strategic growth for the new movie rental service. 
+# Rockbuster Stealth LLC Analysis  
 
-# Key Questions
+## Project Summary  
+Rockbuster Stealth LLC, a movie rental company that once operated stores worldwide, is re-evaluating its business strategy. With the rise of online streaming platforms, Rockbuster is seeking insights from its existing data to inform future decisions.  
 
-● Which movies contributed the most/least to revenue gain?
+---
 
-● What was the average rental duration for all videos?
+##  Key Business Questions  
+- **Which movies contributed the most/least to revenue gain?**  
+- **What was the average rental duration for all videos?**  
+- **Which countries are Rockbuster customers based in?**  
+- **Where are customers with a high lifetime value located?**  
+- **Do sales figures vary between geographic regions?**  
 
-● Which countries are Rockbuster customers based in?
+---
 
-● Where are customers with a high lifetime value based?
+##  Data & Tools Used  
+The **Rockbuster Stealth LLC dataset** includes information on:  
+- Customers  
+- Inventory  
+- Payments  
+- Staff  
+- Films & Actors  
+- Stores  
+- Rental History  
 
-● Do sales figures vary between geographic regions?
+**Tools applied in this analysis:**  
+- **SQL** (data querying & extraction)  
+- **Tableau** (data visualisation & dashboards)  
+- **Excel / Google Sheets** (data cleaning & exploration)  
 
-# Data & Tools Used
+---
 
-The Rockbuster Stealth LLC dataset includes data about customers, inventory, payments, staff, films, addresses, actors, stores and rental history. The tools used in the analysis were Postgre SQL and Pgdmin 4. For the visualisations, Tableau Public was used and Microsoft Powerpoint presented the findings.  
+## 📊 Deliverables  
+- **Interactive Tableau Visualisations**: [View Dashboard](https://public.tableau.com/app/profile/gemma.hearne/vizzes)  
+- **PowerPoint Presentation**: [Download Here](https://github.com/user-attachments/files/21949859/GemmaHTask3.10_Presenting_SQL_Results.pdf)  
 
-Rockbuster Stealth LLC Analysis Tableau [Visualisations](https://public.tableau.com/app/profile/gemma.hearne/vizzes)
+---
 
-Powerpoint presentation : [GemmaHTask3.10_Presenting_SQL_Results.pdf](https://github.com/user-attachments/files/21249859/GemmaHTask3.10_Presenting_SQL_Results.pdf)
+## How to Use This Repository    
+- `queries/` → Includes examples of queries used in analysis  
+- `docs/` → Powerpoint Presentation 
+- `imgs/` → Visualisations such as ERD  
+
+---
+
+
